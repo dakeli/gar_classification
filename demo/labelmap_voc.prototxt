@@ -1,0 +1,100 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "book"
+  label: 1
+  display_name: "book"
+}
+item {
+  name: "bottle"
+  label: 2
+  display_name: "bottle"
+}
+item {
+  name: "bowl"
+  label: 3
+  display_name: "bowl"
+}
+item {
+  name: "cell phone"
+  label: 4
+  display_name: "cell phone"
+}
+item {
+  name: "clock"
+  label: 5
+  display_name: "clock"
+}
+item {
+  name: "cup"
+  label: 6
+  display_name: "cup"
+}
+item {
+  name: "fork"
+  label: 7
+  display_name: "fork"
+}
+item {
+  name: "hair drier"
+  label: 8
+  display_name: "hair drier"
+}
+item {
+  name: "handbag"
+  label: 9
+  display_name: "handbag"
+}
+item {
+  name: "keyboard"
+  label: 10
+  display_name: "keyboard"
+}
+item {
+  name: "knife"
+  label: 11
+  display_name: "knife"
+}
+item {
+  name: "remote"
+  label: 12
+  display_name: "remote"
+}
+item {
+  name: "scissors"
+  label: 13
+  display_name: "scissors"
+}
+item {
+  name: "spoon"
+  label: 14
+  display_name: "spoon"
+}
+item {
+  name: "teddy bear"
+  label: 15
+  display_name: "teddy bear"
+}
+item {
+  name: "toothbrush"
+  label: 16
+  display_name: "toothbrush"
+}
+item {
+  name: "umbrella"
+  label: 17
+  display_name: "umbrella"
+}
+item {
+  name: "vase"
+  label: 18
+  display_name: "vase"
+}
+item {
+  name: "wine glass"
+  label: 19
+  display_name: "wine glass"
+}
